@@ -1,1 +1,8 @@
-page: http://www.boaromayo.net
+# Website settings
+title: boaromayo
+email: nlypoblet@gmail.com
+baseurl: ""
+url: "http://www.boaromayo.net"
+
+# Build settings
+markdown: 
