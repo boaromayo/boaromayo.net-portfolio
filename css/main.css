@@ -1,0 +1,187 @@
+* {
+	color: #ffffff; /* #ffffff = white. Make all text on page white. Use hex for colors for accuracy in locating colors. */
+	background-color: #2a5420; /* Background color: sort-of dark green */
+}
+
+.title {
+	display: -webkit-box;
+	-webkit-box-orient: horizontal;
+	border-left: 4px solid #ffffff;
+	-webkit-box-flex: 1;
+	margin: 16px 24px;
+	padding: 24px 32px;
+}
+
+a.title {
+	text-decoration: none; /* this will leave title with no ugly underline */
+}
+
+h1.headtitle {
+	font-size: 48px;
+	font-style: bold;
+	font-family: "Optima", Arial, Sans Serif;
+}
+
+/*h2.subtitle {
+	font-size: 24px;
+	font-style: italic;
+	font-family: "Optima", Arial, Sans Serif;
+}*/
+
+#menu  {
+	clear: both;
+	display: -webkit-box;
+	-webkit-box-orient: horizontal;
+	-webkit-box-flex: 1;
+	padding: 2px 4px;
+	font-size: 32px;
+	font-family: "Optima", Arial, Sans Serif;
+}
+
+#menu, ul li {
+	display: inline-block;
+}
+
+a.nav {
+	text-decoration: none; /* this will leave nav menu with no underline */
+}
+
+a.nav:hover, a.nav:active {
+	/*text-decoration: underline; /* underline hovered link in nav menu */
+	background-color: #7c7c7c;
+	/*text-style: */
+}
+
+#body-main,
+#body-projs-main,
+#body-misc-main,
+#body-about-main,
+#body-links-main,
+#body-contact-main {
+	clear: both;
+	padding: 10px;
+	margin: 2px 2px;
+	float: left;
+	font-family: "Optima", Arial, "Sans Serif";
+}
+
+#body-projs-main ul li {
+	display: block;
+}
+
+footer {
+	clear: both;
+	border-top: 1px solid #ffffff;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+	font-family: Arial, "Sans Serif";
+	font-size: 14px;
+}
+
+h2.article-title {
+	font-size: 24px;
+}
+
+a.article-title {
+	text-decoration: none;
+}
+
+a.article-title:hover {
+	text-decoration: underline;
+}
+
+h3.article-date {
+		font-size: 20px;
+}
+
+p.paragraph {
+	font-style: none;
+	font-family: Arial, "Sans Serif";
+	font-size: 16px;
+}
+
+.body-aside {
+	font-style: none;
+	font-family: "Optima", "Arial", "Sans Serif";
+	font-size: 14px;
+	border: 2px white;
+}
+
+/* PROJECTS PAGE */
+
+h1.projectheader {
+	text-decoration: underline;
+	font-style: bold;
+}
+
+li.ruinology, li.epic-den, li.magic-drops {
+	text-decoration: underline;
+	font-style: italic;
+}
+
+a.project-fan {
+	text-decoration: underline;
+	font-style: italic;
+}
+
+a.celine, a.phoenix {
+	text-decoration: none;
+}
+
+a.celine:hover, a.phoenix:hover {
+	text-decoration: underline;
+	color: #fffCCC;
+}
+
+/* MISC PAGE */
+
+.misc-main {
+	text-decoration: underline;
+	font-style: bold;
+	font-family: "Optima", Arial, "Sans Serif";
+}
+
+h2.reference-title {
+	text-decoration: none;
+	font-style: bold;
+	font-family: "Optima", Arial, "Sans Serif";
+}
+
+/* ABOUT PAGE */
+
+.about-title {
+	text-decoration: underline;
+	font-family: "Optima", Arial, "Sans Serif";
+}
+
+/* LINKS PAGE */
+
+h1.resume {
+	text-decoration: underline;
+}
+
+h2.portfolio {
+	text-decoration: underline;
+}
+
+/*a.resume {
+
+}*/
+
+a.github, a.da, a.linkedin {
+	padding: 12px;
+	font-family: "Optima", Arial, "Sans Serif";
+}
+
+/* CONTACT PAGE */
+
+h1.contactheader {
+	font-style: bold;
+	text-decoration: underline;
+}
+
+a.email, a.phone {
+	padding: 12px;
+	font-family: "Optima", Arial, "Sans Serif";
+}
