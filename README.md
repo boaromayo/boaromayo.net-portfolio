@@ -1,22 +1,12 @@
 # boaromayo.net
 
-<<<<<<< HEAD
 My personal and portfolio website powered by [Jekyll](http://jekyllrb.com).
 
 Theme used is [minima](https://github.com/jekyll/minima).
 
 Explanation for minima theme is below.
 
-# minima
-=======
-My personal and portfolio website powered by [Jekyll](http://jekyllrb.com). 
-
-Theme used is [minima](https://github.com/jekyll/minima). 
-
-Explanation for minima theme is below.
-
 ## minima
->>>>>>> 05af59735a301aa5ef32f23b887566b23b456e7a
 
 *Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.
 
