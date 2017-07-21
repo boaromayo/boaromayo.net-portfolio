@@ -1,6 +1,6 @@
 # boaromayo.net
 
-Personal and portfolio website powered by [Jekyll](http://jekyllrb.com). 
+My personal and portfolio website powered by [Jekyll](http://jekyllrb.com). 
 
 Theme used is [minima](https://github.com/jekyll/minima). 
 
