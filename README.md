@@ -1,6 +1,10 @@
 # boaromayo.net
 
-Personal and portfolio website powered by [Jekyll](http://jekyllrb.com). Theme used is [minima](https://github.com/jekyll/minima). Explanation for minima theme is below.
+Personal and portfolio website powered by [Jekyll](http://jekyllrb.com). 
+
+Theme used is [minima](https://github.com/jekyll/minima). 
+
+Explanation for minima theme is below.
 
 ## minima
 
