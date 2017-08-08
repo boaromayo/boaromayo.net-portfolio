@@ -12,3 +12,5 @@ It sounds, how should I describe this, a euphoric feeling to have something that
 The drawback for maintaining this website, though, is that I'll have the domain name for a year. Then, I'll have to renew this when the time comes. Provided if I have enough money, it'll be a breeze.
 
 All of this sounds obvious to people who've maintained a website before, but to novices in website building like me, who want to have end-to-end control in everything, that feeling's so nice, yet fleeting. Now I've got to buckle down and change the theme from this drab minimalist gray to something appealing.
+
+**Note:** After fixing the config file to assure that any future updates get counted, the site's now absolutely up!
