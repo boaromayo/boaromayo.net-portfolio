@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Projects
-github: "https://github.com/{{ site.github_username }}"
-wikipedia: "https://en.wikipedia.org/wiki/"
+github_username: boaromayo
+github: "https://github.com/{{ page.github_username }}"
+wikipedia: "https://en.wikipedia.org/wiki"
 construct: "https://www.scirra.com/"
 permalink: /projs/
 ---
