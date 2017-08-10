@@ -1,33 +1,23 @@
 ---
 layout: page
 title: Projects
-github: "https://github.com/{{ site.github_username }}"
-wikipedia: "https://en.wikipedia.org/wiki/"
-construct: "https://www.scirra.com/"
 permalink: /projs/
 ---
 
 # WORKS IN PROGRESS
 
-[*FruitEditor* (tile map editor)][github-fe]
+[*FruitEditor* (tile map editor)](https://github.com/boaromayo/FruitEditor_v1_1)
 
-[*Ruinology*][github-ruin]
+[*Ruinology*](https://github.com/boaromayo/Ruinology)
 
-[*The Epic of Den*][github-den]
+[*The Epic of Den*](https://github.com/boaromayo/Den)
 
-*ar-Prinz: Imperial Seal* ([RPG Maker VX Ace][rmvxa])
+*ar-Prinz: Imperial Seal* ([RPG Maker VX Ace](https://en.wikipedia.org/wiki/RPG_Maker_VX_Ace))
 
-*Magic Drops!* ([Construct 2][construct])
+*Magic Drops!* ([Construct 2](https://www.scirra.com/))
 
 # FINISHED
 
 *The Celine Project* (demo) (RPG Maker VX Ace, 2013)
 
-*Phoenix Wings* ([RPG Maker XP][rmxp], last updated 2007)
-
-[github-fe]:    {{ page.github }}/FruitEditor_v1_1
-[github-ruin]:  {{ page.github }}/Ruinology
-[github-den]:   {{ page.github }}/Den
-[construct]:    {{ page.construct }}
-[rmvxa]:        {{ page.wikipedia }}/RPG_Maker_VX_Ace
-[rmxp]:         {{ page.wikipedia }}/RPG_Maker_XP
+*Phoenix Wings* ([RPG Maker XP](https://en.wikipedia.org/wiki/RPG_Maker_XP), last updated 2007)
