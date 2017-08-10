@@ -1,4 +1,5 @@
 _site
+_layouts/projects.html
 .gemspec
 .sass-cache
 .jekyll-metadata
