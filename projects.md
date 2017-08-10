@@ -8,13 +8,13 @@ permalink: /projs/
 
 [*FruitEditor* (tile map editor)][github-map]
 
-[*Ruinology*](https://github.com/boaromayo/Ruinology)
+[*Ruinology*][github-ruin]
 
-[*The Epic of Den*](https://github.com/boaromayo/Den)
+[*The Epic of Den*][github-den]
 
-*ar-Prinz: Imperial Seal* ([RPG Maker VX Ace](https://en.wikipedia.org/wiki/RPG_Maker_VX_Ace))
+*ar-Prinz: Imperial Seal* ([RPG Maker VX Ace][rmvxa])
 
-*Magic Drops!* ([Construct 2](https://www.scirra.com/))
+*Magic Drops!* ([Construct 2][construct])
 
 # FINISHED
 
