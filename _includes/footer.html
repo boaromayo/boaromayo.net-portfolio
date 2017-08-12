@@ -63,9 +63,9 @@
     <div class="footer-copyright">
       {% if site.github_username %}
         {% assign date_format = site.minima.date_format | default: "%Y" %}
-        <p><span style="color:red">&copy; {{ site.date | date: date_format }} {{ site.github_username | escape }}</span></p>
+        <span style="text-align:center">&copy; {{ site.date | date: date_format }} {{ site.github_username | escape }}</span>
       {% else %}
-        <p><span style="color:red">&copy; {{ site.author | escape }}</span></p>
+        <span style="text-align:center">&copy; {{ site.author | escape }}</span>
       {% endif %}
     </div>
 
