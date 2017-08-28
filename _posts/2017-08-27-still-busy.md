@@ -10,7 +10,7 @@ body-class: article
 
 Whenever I load this site into my local host, it works. But, the problem's coming from it's remote server. For instance, when I go on to the actual website, this is what's being displayed instead of my bare-bones (for now) homepage:
 
-<img src="http://i.imgur.com/IxIzNY3.jpg" alt="pug-page" width="40%" height="40%" />
+<img src="http://i.imgur.com/IxIzNY3.jpg" alt="pug-page" width="75%" height="75%" />
 
 For the record, I'm using [Metalsmith][ms], a static site generator, to build my website instead of Jekyll as a way to challenge myself here, with [Pug (which used to be called Jade)][pug] for the site's layout, and Markdown for the entries.
 
