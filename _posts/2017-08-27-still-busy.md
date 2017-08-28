@@ -16,6 +16,17 @@ For the record, I'm using [Metalsmith][ms], a static site generator, to build my
 
 There still might be a way to put the actual site up to [Github-Pages servers][gh-pages] without showing that blank page. So far, thanks to the limited docs available on Metalsmith, and the limited help online, this step is going to be one steep climb.
 
-[ms]: "http://metalsmith.io/"
-[pugjs]: "https://pugjs.org/"
-[gh-pages]: "https://pages.github.com/"
+**ETA:** I also learned something new here when writing this new post. For any external links, I should not put the link in quotes, like so:
+
+```
+[ms]: "http://metalsmith.io" // Don't do this!!!
+```
+```
+[ms]: http://metalsmith.io // YES!
+```
+
+The lesson above sounds obvious, but I hope this might be helpful to anyone who's still learning markdown.
+
+[ms]: http://metalsmith.io/
+[pugjs]: https://pugjs.org/
+[gh-pages]: https://pages.github.com/
