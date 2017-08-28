@@ -6,7 +6,7 @@ categories: website
 body-class: article
 ---
 
-*~sigh~* I'm still trying to put up another website online, and right now, it's now going well...
+*sigh* I'm still trying to put up another website online, and right now, it's now going well...
 
 Whenever I load this site into my local host, it works. But, the problem's coming from it's remote server. For instance, when I go on to the actual website, this is what's being displayed instead of my bare-bones (for now) homepage:
 
