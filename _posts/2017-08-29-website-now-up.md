@@ -19,7 +19,7 @@ which I used to overwrite the old one, and to empty out the files there without 
 git rm -rf .
 ```
 
-That code removed the files from any future pushes, but did not delete the files themselves. Note, I also used this code in my second attempt to create the empty branch, but I wouldn't try this one again, since it led to plenty of errors when I tried to switch my main directory's branch back to ```master```:
+That code removed the files from any future pushes, but did not delete the files themselves. Note, I also used the code below in my second attempt to create the empty branch, but I wouldn't try this one again, since it led to plenty of errors when I tried to switch my main directory's branch back to ```master```:
 
 ```
 git rm --cached -r .
