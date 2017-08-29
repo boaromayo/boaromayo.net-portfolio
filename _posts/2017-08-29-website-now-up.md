@@ -19,7 +19,7 @@ which was meant to overwrite the old one, and to empty out the files there witho
 git rm -rf .
 ```
 
-That snippet would remove the files from any commits, but it did not delete the files themselves. Note, I also used this code, but I wouldn't use this, since it led to plenty of errors when I tried to switch back to the ```master``` branch:
+That snippet would remove the files from any commits, but it did not delete the files themselves. Note, I also used this code, but I wouldn't try this one again, since it led to plenty of errors when I tried to switch my main directory's branch back to ```master```:
 
 ```
 git rm --cached -r .
