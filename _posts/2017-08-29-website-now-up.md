@@ -9,7 +9,7 @@ After a day and a half of trying to make this work, as of 8:53 A.M. today, I fin
 
 How I figured this out was from other repos that also used Metalsmith, particularly (if the repos had them) their ```gh-pages``` branch last night.
 
-The final content from their ```build``` directory was used to put up their site. No layouts or extra files, just what was in the ```build```. The next morning, I then looked up how to create an empty gh-pages branch:
+The final content from their ```build``` directory was used to put up their site. No layouts or extra files, just what was in the ```build```. The next morning, I then looked up on how to create an empty gh-pages branch:
 
 ```
 git checkout --orphan gh-pages
