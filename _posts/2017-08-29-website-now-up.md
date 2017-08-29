@@ -13,13 +13,13 @@ How I managed to figure this out was from looking at other repos that also used 
 git checkout --orphan gh-pages
 ```
 
-which was meant to overwrite the old one, and to empty out the files there without directly deleting in the repo and adding up additional commits. How I did that was this:
+which I used to overwrite the old one, and to empty out the files there without directly deleting in the repo and adding up additional commits. How I did the second task was through this line:
 
 ```
 git rm -rf .
 ```
 
-That snippet would remove the files from any commits, but it did not delete the files themselves. Note, I also used this code, but I wouldn't use this, since it led to plenty of errors when I tried to switch back to the ```master``` branch:
+That code removed the files from any future pushes, but did not delete the files themselves. Note, I also used this code in my second attempt to create the empty branch, but I wouldn't try this one again, since it led to plenty of errors when I tried to switch my main directory's branch back to ```master```:
 
 ```
 git rm --cached -r .
@@ -27,9 +27,9 @@ git rm --cached -r .
 
 After a few attempts and a lot of help online (which was helpful, but not by much), I made a placeholder directory away from the main directory, and moved all my work there. I then switched the assigned branch of the original directory back to ```master```, which made the git terminal work, and put everything back.
 
-I used the new directory to hold the content for the final build of the website (though I would have used ```git init``` inside my ```build``` directory from main, but that still caused errors that wouldn't have allowed me to push any new commits I made), and after a small struggle typing with the git terminal, I've got the site up and running!
+I used the new directory to hold the content for the final build of the website (though I would have used ```git init``` inside my ```build``` directory from main, but that still caused errors that wouldn't have allowed me to push any new commits I made), and after a small struggle with the git terminal trying to push into the empty ```gh-pages``` branch, I've got the site up and running!
 
-Here's the website: http://quswan.net
+Here's the website: [http://quswan.net](http://quswan.net)
 
 It's pretty bare bones, but I'll add a nav bar and hook up the links together soon. So far, it's been both a fun and frustrating experience getting this second website together.
 
