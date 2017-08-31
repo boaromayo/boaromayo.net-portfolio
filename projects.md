@@ -6,7 +6,7 @@ permalink: /projs/
 
 # WORKS IN PROGRESS
 
-[*FruitEditor* (tile map editor)][github-map]
+[*FruitEditor* (tile map editor)][github-map] (Download [v0.2.5_03][map-v0.2.5_03], [v0.2.5_02][map-v0.2.5_02])
 
 [*Ruinology*][github-ruin]
 
@@ -23,6 +23,8 @@ permalink: /projs/
 *Phoenix Wings* ([RPG Maker XP][rmxp], last updated 2007)
 
 [github-map]:   https://github.com/boaromayo/FruitEditor_v1_1
+[map-v0.2.5_03]:https://github.com/boaromayo/FruitEditor_v1_1/releases/tag/v0.2.5_03
+[map-v0.2.5_02]:https://github.com/boaromayo/FruitEditor_v1_1/releases/tag/v0.2.5_02
 [github-ruin]:  https://github.com/boaromayo/Ruinology
 [github-den]:   https://github.com/boaromayo/Den
 [construct]:    https://www.scirra.com/construct2
