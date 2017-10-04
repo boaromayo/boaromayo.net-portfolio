@@ -4,3 +4,6 @@ fonts
 .gemspec
 .sass-cache
 .jekyll-metadata
+*.sh
+*.npm
+*.log
