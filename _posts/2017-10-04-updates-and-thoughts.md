@@ -17,6 +17,6 @@ But, I wonder who I should start drawing next instead of random references?
 
 I'll just avoid any specific themes this Inktober, and just draw whoever or whatever I feel like.
 
-[l-and-f]:  https://www.dropbox.com/s/277laaa0jwm1iso/Website%20layout%20Feb%2023%2C%208%2036%2013%20PM.jpg?dl=0
+[l-and-f]:  https://www.dropbox.com/s/277laaa0jwm1iso/Website%20layout%20Feb%2023%2C%208%2036%2013%20PM.jpg
 [nodejs]:   https://nodejs.org/
 [inktober]: http://mrjakeparker.com/inktober/
