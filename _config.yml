@@ -28,7 +28,7 @@ theme: minima
 #theme: greeny
 plugins:
   - jekyll-feed
-  - jekyll-multi-paginate
+  - jekyll-paginate
 
 # Localhost port
 port: 8080
@@ -39,11 +39,13 @@ future: true
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+   - Gemfile
+   - Gemfile.lock
+   - gems
+   - README.md
+   - node_modules
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
