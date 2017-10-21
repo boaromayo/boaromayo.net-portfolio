@@ -3,6 +3,7 @@ _plugins
 .gemspec
 .sass-cache
 .jekyll-metadata
+index.md/
 *.sh
 *.npm
 *.log
