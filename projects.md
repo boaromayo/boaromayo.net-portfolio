@@ -12,7 +12,7 @@ permalink: /projs/
 
 [*The Epic of Den*][github-den]
 
-*ar-Prinz: Imperial Seal* ([RPG Maker VX Ace][rmvxa])
+[*ar-Prinz: Imperial Seal*][github-arp] ([RPG Maker VX Ace][rmvxa])
 
 *Magic Drops!* ([Construct 2][construct])
 
@@ -31,6 +31,7 @@ Snark IDE (application for programming language Snark)
 [map-v0.2.5_02]:https://github.com/boaromayo/FruitEditor_v1_1/releases/tag/v0.2.5_02
 [github-ruin]:  https://github.com/boaromayo/Ruinology
 [github-den]:   https://github.com/boaromayo/Den
+[github-arp]:   https://github.com/boaromayo/ar-prinz
 [construct]:    https://www.scirra.com/construct2
 [rmvxa]:        https://en.wikipedia.org/wiki/RPG_Maker_VX_Ace
 [rmxp]:         https://en.wikipedia.org/wiki/RPG_Maker_XP
