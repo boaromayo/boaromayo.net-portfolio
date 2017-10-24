@@ -28,13 +28,18 @@ theme: minima
 #theme: greeny
 plugins:
   - jekyll-feed
-  - jekyll-paginate
+#  - jekyll-paginate
+  - jekyll-minifier
 
 # Localhost port
-port: 8080
+port: 5000
 
 # Enable updated posts.
 future: true
+
+# Place pagination settings.
+#paginate: 8
+#paginate_path: "/page/:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
