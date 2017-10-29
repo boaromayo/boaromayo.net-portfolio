@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting RPG MAKER MV"
-date: 2017-10-29 11:30:00 -0800
+date: 2017-10-29 09-0800
 #categories: rpg-maker-mv
 body-class: article
 ---
