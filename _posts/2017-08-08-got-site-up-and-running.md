@@ -2,7 +2,7 @@
 layout: post
 title:  Got My Site Up and Running!
 date:   2017-08-08 14:42:55 -0700
-categories: website
+#categories: website
 body-class: article
 ---
 Yes, this website's now up and running!

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Waiting For Power Supply..."
-date:  2017-03-15 10:00:00 -0700
-categories: raspberry-pi
+date:  2017-03-15 10:00:00 -0800
+#categories: raspberry-pi
 ---
 I'm waiting for the power supply for my [Raspberry Pi][raspberry-pi] right now, but it's not coming yet until either tomorrow or Friday.
 

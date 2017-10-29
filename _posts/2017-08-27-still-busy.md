@@ -2,7 +2,7 @@
 layout:     post
 title:      "Still Busy"
 date:       2017-08-27 21:24:55 -0700
-categories: website
+#categories: website
 body-class: article
 ---
 

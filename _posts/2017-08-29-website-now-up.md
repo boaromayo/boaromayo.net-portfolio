@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Website Now Up!"
-date:   2017-08-29 09:07:22 -0700
-categories: website
+date:   2017-08-29 09:07:22 -0800
+#categories: website
 ---
 
 After a day and a half of trying to make this work, as of 8:53 A.M. today, I finally got the other website up! Yes!

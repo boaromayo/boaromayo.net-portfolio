@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "First Post!"
-date: 2017-03-10 15:32:12 -0700
-categories: dapl
+date: 2017-03-10 15:32:12 -0800
+#categories: dapl
 body-class: article
 ---
 Well, let's see what I can I talk about. Hmmm...maybe I can talk about what I'm doing when I made this website.
