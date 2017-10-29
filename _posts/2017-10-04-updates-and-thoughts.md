@@ -2,7 +2,7 @@
 layout:  post
 title:   "Updates and Thoughts"
 date:    2017-10-04 12:10:35 -0700
-categories: website
+#categories: website
 ---
 
 I'm still improving on the second website since August (the website I've built from [Node.js][nodejs]), and it's a slow, but wonderful learning experience trying to piece everything together! As of yesterday, I've added pagination plugins there to ensure that if the quantity of posts get larger, that they don't take up the entire home page.
