@@ -2,7 +2,7 @@
 layout: post
 title: "Happy St. Patrick's Day"
 date:  2017-03-17 20:15:15 -0700
-categories: st-patricks-day
+#categories: st-patricks-day
 ---
 I just noticed that I wasn't wearing any green the whole day! I got so distracted playing around on my new [RetroPie][retropie] arcade (and I'll talk more about that tomorrow, hopefully) that that fact slipped right past me.
 

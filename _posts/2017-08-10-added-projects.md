@@ -2,7 +2,7 @@
 layout: post
 title:  "Added Projects!"
 date:   2017-08-10 16:14:02 -0700
-categories: website
+#categories: website
 body-class: article
 ---
 
