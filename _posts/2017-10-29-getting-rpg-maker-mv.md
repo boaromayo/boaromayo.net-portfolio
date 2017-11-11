@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting RPG MAKER MV"
 date: 2017-10-29 09-0800
-categories: rpg-maker-mv rpg-maker-vxace
+#categories: rpg-maker-mv rpg-maker-vxace game-dev
 body-class: article
 ---
 I decided to give in and download [RPG MAKER MV][rpgmv] last Thursday, and I'm liking this software! I've already made a few characters and a little face avatar from its character generator! I can say that MV almost captured that same feeling I had when I downloaded the XP version 10, 11 years ago. I just hope this laptop doesn't crash on me (it's already 8 years old now!) the same way the desktop I used to own that had the XP version did. It took **years** to dredge up me and my family's data from the desktop's hard drive!
