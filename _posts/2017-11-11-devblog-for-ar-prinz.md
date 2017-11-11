@@ -12,11 +12,7 @@ So, how should I start this?
 
 Last night, I managed to complete the lower half of one of my maps:
 
-<<<<<<< HEAD
 <img src="assets/ap-map-2017-11-11.png/" alt="ar-prinz-map-1" width="370" height="316" />
-=======
-<img src="/assets/ap-map-2017-11-11.png/" alt="ar-prinz-map-1" width="370" height="316" />
->>>>>>> 73d7a7b150b0a580a5c3549b58a702dd0f6b9363
 
 I'll probably add some more shrubbery to make it feel a bit more lively. Next phase for that map would be to finish filling in the events there.
 
