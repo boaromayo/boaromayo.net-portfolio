@@ -9,7 +9,7 @@ I was supposed to put this up on Saturday, but I got lazy and I had other offlin
 
 I've completed mapping the outhouse interiors and a house interior for the first town. After painstaking planning, using small-sized grid paper for the first draft, and equally tiring work, here's a sample:
 
-<img src="/assets/ap-latheswicke-2017-11-24.png" alt="interior 1" width="305" height="195" />
+<img src="/assets/ap-latheswicke-2017-11-24.png" alt="interior 1" width="457.5" height="292.5" />
 
 I'm satisfied with it, but I feel like it needs more warmth (a few lighting fixtures, maybe? Or a new wallpaper?) in its look before I could call this part finished. Plus, I need to draw out the other interiors and the second floor parts.
 
