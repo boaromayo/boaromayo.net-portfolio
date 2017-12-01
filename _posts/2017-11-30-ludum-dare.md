@@ -13,8 +13,4 @@ As for the theme, I might use the "start with no resources" and "broken land" th
 
 That's all I have for now! Hope I getting something up and finished!
 
-<<<<<<< HEAD
 By the way, my account is [@boaromayox](https://ldjam.com/users/boaromayox) in the jam's official site if anyone wants to find me.
-=======
-By the way, my account is [@boaromayo](https://ludumdare.com/compo/author/boaromayo) on Ludum Dare's old blog site, but for the new one, it's [@boaromayox](https://ldjam.com/users/boaromayox).
->>>>>>> eded42ed0bcfcaea09725b02a1761d91d28a5732
