@@ -22,6 +22,8 @@ Snark IDE (application for programming language Snark)
 
 *The Celine Project* (demo) (RPG Maker VX Ace, 2013)
 
+<img src="/assets/phoenix-wings.png" />
+
 *Phoenix Wings* ([RPG Maker XP][rmxp], last updated 2007)
 
 # **RESUME** ([.pdf][resume-pdf], [.docx][resume-docx])
