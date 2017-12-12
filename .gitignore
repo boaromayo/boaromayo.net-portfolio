@@ -1,5 +1,7 @@
 _site
 _plugins
+sample-game.md
+assets/flattile/
 .gemspec
 .sass-cache
 .jekyll-metadata
