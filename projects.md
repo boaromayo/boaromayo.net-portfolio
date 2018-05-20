@@ -6,27 +6,27 @@ permalink: /projs/
 
 # WORKS IN PROGRESS
 
-<span style="text-align: center;">[*FruitEditor* (tile map editor)][github-map] (Download [v0.2.5_03][map-v0.2.5_03], [v0.2.5_02][map-v0.2.5_02])</span>
+<p style="text-align: center;">[*FruitEditor* (tile map editor)][github-map] (Download [v0.2.5_03][map-v0.2.5_03], [v0.2.5_02][map-v0.2.5_02])</p>
 
-<span style="text-align: center;">[*Ruinology*][github-ruin]</span>
+<p style="text-align: center;">[*Ruinology*][github-ruin]</p>
 
-<span style="text-align: center;">[*The Epic of Den*][github-den]</span>
+<p style="text-align: center;">[*The Epic of Den*][github-den]</p>
 
-<span style="text-align: center;">[*ur-Prinz: Imperial Seal*][github-ur] ([RPG Maker VX Ace][rmvxa])</span>
+<p style="text-align: center;">[*ur-Prinz: Imperial Seal*][github-ur] ([RPG Maker VX Ace][rmvxa])</p>
 
-<span style="text-align: center;">*Magic Drops!* ([Construct 2][construct])</span>
+<p style="text-align: center;">*Magic Drops!* ([Construct 2][construct])</p>
 
 # FINISHED
 
-<span style="text-align: center;">Snark IDE (application for programming language Snark)</span>
+<p style="text-align: center;">Snark IDE (application for programming language Snark)</p>
 
-<span><img src="/assets/you-owe-me-one-bag.png" /></span>
+<p><img src="/assets/you-owe-me-one-bag.png" /></p>
 
-<span style="text-align: center;">*The Celine Project* (demo) (RPG Maker VX Ace, 2013)</span>
+<p style="text-align: center;">*The Celine Project* (demo) (RPG Maker VX Ace, 2013)</p>
 
-<span style="text-align: center;"><img src="/assets/phoenix-wings.png" /></span>
+<p style="text-align: center;"><img src="/assets/phoenix-wings.png" /></p>
 
-<span style="text-align: center;">*Phoenix Wings* ([RPG Maker XP][rmxp], last updated 2007)</span>
+<p style="text-align: center;">*Phoenix Wings* ([RPG Maker XP][rmxp], last updated 2007)</p>
 
 [github-map]:   https://github.com/boaromayo/FruitEditor_v1_1
 [map-v0.2.5_03]:https://github.com/boaromayo/FruitEditor_v1_1/releases/tag/v0.2.5_03
