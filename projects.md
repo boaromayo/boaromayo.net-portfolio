@@ -20,7 +20,7 @@ permalink: /projs/
 
 <p style="text-align: center;" markdown="1">Snark IDE (application for programming language Snark)</p>
 
-<p style="text-align: center;" markdown="1"><img src="/assets/you-owe-me-one-bag.png" /></p>
+<p style="text-align: center;" markdown="1"><img src="/assets/you-owe-me-one-bag.png" width="320" height="240" /></p>
 
 <p style="text-align: center;" markdown="1">*The Celine Project* (demo) (RPG Maker VX Ace, 2013)</p>
 
