@@ -6,11 +6,11 @@ permalink: /projs/
 
 # WORKS IN PROGRESS
 
-<p style="text-align: center;">[*FruitEditor* (tile map editor)][github-map] (Download [v0.2.5_03][map-v0.2.5_03], [v0.2.5_02][map-v0.2.5_02])</p>
+<p style="text-align: center;">[*FruitEditor* (tile map editor)][github-map] (Download [v0.2.5_03][map-v0.2.5_03])</p>
 
 <p style="text-align: center;" markdown="1">[*Ruinology*][github-ruin]</p>
 
-<p style="text-align: center;" markdown="1">[*The Epic of Den*][github-den]</p>
+<p style="text-align: center;" markdown="1">[*The Epic of Den* (noncanon version)][github-den] ([Solarus ARPG engine][solarus])</p>
 
 <p style="text-align: center;" markdown="1" >[*ur-Prinz: Imperial Seal*][github-ur] ([RPG Maker VX Ace][rmvxa])</p>
 
@@ -30,11 +30,11 @@ permalink: /projs/
 
 [github-map]:   https://github.com/boaromayo/FruitEditor_v1_1
 [map-v0.2.5_03]:https://github.com/boaromayo/FruitEditor_v1_1/releases/tag/v0.2.5_03
-[map-v0.2.5_02]:https://github.com/boaromayo/FruitEditor_v1_1/releases/tag/v0.2.5_02
 [github-ruin]:  https://github.com/boaromayo/Ruinology
-[github-den]:   https://github.com/boaromayo/Den
+[github-den]:   https://github.com/boaromayo/EoD-noncanon
 [github-ur]:   https://github.com/boaromayo/ur-prinz
 [construct]:    https://www.scirra.com/construct2
+[solarus]:		http://www.solarus-games.org
 [rmvxa]:        https://en.wikipedia.org/wiki/RPG_Maker_VX_Ace
 [rmxp]:         https://en.wikipedia.org/wiki/RPG_Maker_XP
 [resume-pdf]:   /assets/nyp-resume-rev.pdf
