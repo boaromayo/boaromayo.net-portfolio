@@ -6,7 +6,7 @@ permalink: /projs/
 
 # WORKS IN PROGRESS
 
-<p style="text-align: center;">[*FruitEditor* (tile map editor)][github-map] (Download [v0.2.5_03][map-v0.2.5_03])</p>
+<p style="text-align: center;" markdown="1">[*FruitEditor* (tile map editor)][github-map] (Download [v0.2.5_03][map-v0.2.5_03])</p>
 
 <p style="text-align: center;" markdown="1">[*Ruinology*][github-ruin]</p>
 
