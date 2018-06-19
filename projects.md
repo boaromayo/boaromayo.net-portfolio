@@ -38,4 +38,3 @@ permalink: /projs/
 [rmvxa]:        https://en.wikipedia.org/wiki/RPG_Maker_VX_Ace
 [rmxp]:         https://en.wikipedia.org/wiki/RPG_Maker_XP
 [resume-pdf]:   /assets/nyp-resume-rev.pdf
-[resume-docx]:  https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Fboaromayo.net%2Fassets%2Fnyp-resume-rev.docx
