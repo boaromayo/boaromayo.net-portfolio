@@ -8,7 +8,7 @@ body-class: article
 
 I feel a bit confident today, so I'm going to mention another thing I'm doing right now.
 
-At the same time I'm developing *ur-prinz*, I also have another game in development. While reading a [dissertation paper](http://beckylavender.co.uk/portfolio/the-zelda-dungeon-generator/) last March that focused on procedurally-generated Zelda dungeons (I'm a fan of procedural generated dungeons!), I stumbled upon this Action RPG engine called [Solarus](http://www.solarus-games.org/), which was used to complete that dissertation.
+At the same time I'm developing *ur-prinz*, I also have another game in development. While reading a [dissertation paper](http://beckylavender.co.uk/portfolio/the-zelda-dungeon-generator/) last March that focused on procedurally-generated Zelda dungeons (I'm a fan of procedural generation, especially ones that involve making dungeons!), I stumbled upon this Action RPG engine called [Solarus](http://www.solarus-games.org/), which was used to complete that dissertation.
 
 <img src="http://www.solarus-games.org/wp-content/uploads/2013/05/solarus-logo-black-on-transparent1.png" alt="solarus-games-logo" title="Solarus Is Pretty Decent" width="292.8" height="88.8" />
 
