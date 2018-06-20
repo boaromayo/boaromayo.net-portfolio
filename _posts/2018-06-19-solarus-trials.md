@@ -12,8 +12,8 @@ At the same time I'm developing *ur-prinz*, I also have another game in developm
 
 <img src="http://www.solarus-games.org/wp-content/uploads/2013/05/solarus-logo-black-on-transparent1.png" alt="solarus-games-logo" title="Solarus Is Pretty Decent" width="292.8" height="88.8" />
 
-After downloading it, I decided to make a game using the engine. This game was originally meant to be done all in Java, but due to other conflicts, and a loss of interest, I couldn't make it work.
+After downloading Solarus, I decided to use the engine to continue making a game I shelved off. This game was originally meant to be done all in Java, but due to other conflicts, and a loss of interest and ideas, I couldn't make it work, and so I scrapped it around 2016.
 
-Though I learned Solarus's built-in scripting language, [Lua](https://www.lua.org/), back in late 2016, I did have a bit of trouble starting out the scripting end, since its documentation looked quite daunting. Plus, the tutorials were a bit long, though helpful. However, after reading through a few examples from games that used Solarus, I finally managed to create something.
+Though I learned Solarus's built-in scripting language, [Lua](https://www.lua.org/), back in late 2016, I did have a bit of trouble starting out the scripting end, since the game engine's documentation looked quite daunting. Plus, the tutorials were a bit long, though, in a way, helpful. After reading through a few examples from games that used Solarus, however, I finally managed to start on something.
 
-In another post, I'll mention the progress I made with this engine, since I took plenty of photos recording my process.
+In another post, I'll mention the progress I made so far with the game, since I took plenty of photos for these features.
