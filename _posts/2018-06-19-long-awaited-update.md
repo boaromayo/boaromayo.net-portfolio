@@ -6,13 +6,13 @@ date:	2018-06-19 09-0800
 body-class: article
 ---
 
-*Originally published on [itch.io](devlog) on June 17, 2018.*
+*Originally published on [itch.io][devlog] on June 17, 2018.*
 
 Hi, everyone! Sorry for the very long hiatus!
 
 I've renamed the game as *ur-prinz* from *ar-prinz*, worried that I might get this game mixed up with another RPG series, *ar tonelico*.
 
-In other news, I've made a new title screen for the game, the bestiary's working, and I have a splash screen plugin already in place! I've set up a [wiki for the game](wiki) too!
+In other news, I've made a new title screen for the game, the bestiary's working, and I have a splash screen plugin already in place! I've set up a [wiki for the game][wiki] too!
 
 I'll have to do more work on other areas of the game (especially the maps) in the meantime.
 
