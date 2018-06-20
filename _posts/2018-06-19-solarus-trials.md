@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Solarus Trials"
-date:	2018-06-19 21:30:00 -0800
+date:	2018-06-19 02:30:00 -0800
 #categories: solarus game-dev
 body-class: article
 ---
