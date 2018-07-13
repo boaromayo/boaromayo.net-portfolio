@@ -10,17 +10,17 @@ After fixing up the dialogue box and decision system (which still took me awhile
 
 <img src="https://i.imgur.com/znqOdSm.png" alt="decision box" title="Curiosity" width="320" height="240" />
 
-From there, I started to direct my focus on putting up a basic heads-up display system. Looking at other games for reference again, I found out that the heads-up display is assembled piece-by-piece, with each piece created as an "object" or "menu", or a component, instead of being created as one whole. Next, a loop in the file that generates the HUD is used to include each "menu" (the hearts count as one "menu", the magic bar another, the button icons are separate "menus", and so on) into the final HUD "menu".
+From there, I started to focus on putting up a basic heads-up display system. Looking at other games for reference again, I looked through the code for their HUD system. I found out that the heads-up display was assembled separately in different files, with each piece created as a "menu", or a component, instead of being created as one whole. Next, in the file that generates the HUD, a loop is used to include each "menu" (the hearts from the game I referenced count as one "menu", the magic bar another, the button icons are separate "menus", and so on) into the final HUD "menu".
 
 With a vague picture of the HUD that I wanted in my head, I created a small spriteset of gauges corresponding to the player's health and skill points.
 
-Initially, the gauges would not show up, since I set the origin point of the gauges' sprites in different locations.
+The result, seen below, took me tons of testing, as I was still figuring out how the HUD system, and how the engine, mostly on how it handled sprite animations, worked. I also had to move the display around to make it noticeable. 
 
-The result, seen below, took me ages and tons of testing to properly implement, as I was still figuring out how the HUD system, and how the engine, concerning how it handled sprite animations, worked. Plus, I had to move the display around to make it noticeable.
+Initially, the gauges would not show up, since, as I later found out, that I set the origin point of the gauges' sprites sort of out of place in the sprites section.
 
 <img src="https://i.imgur.com/FdiBr3E.png" alt="a start" title="Not-So-Well Placed, But a Good Start!" width="320" height="240" />
 
-Next, I decided to add more stuff, including the display of the player's current health points. This involved expanding the drawing surface of the gauges.
+Next, I decided to add more stuff, including the display of the player's current health points. This involved expanding the drawing surface of the gauges to include them.
 
 <img src="https://i.imgur.com/xyOKRbC.png" alt="health displays" title="Health Display Yay!" width="320" height="240" />
 
