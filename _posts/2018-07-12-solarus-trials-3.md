@@ -12,7 +12,7 @@ After fixing up the dialogue box and decision system (which still took me awhile
 
 From there, I started to direct my focus on putting up a basic heads-up display system. Looking at other games for reference again, I found out that the heads-up display is assembled piece-by-piece, with each piece created as an "object" or "menu", or a component, instead of being created as one whole. Next, a loop in the file that generates the HUD is used to include each "menu" (the hearts count as one "menu", the magic bar another, the button icons are separate "menus", and so on) into the final HUD "menu".
 
-Using the magic bar in one of the games as reference, and with a vague picture of the HUD that I wanted in my head, I created a small spriteset of gauges corresponding to the player's health and skill points.
+With a vague picture of the HUD that I wanted in my head, I created a small spriteset of gauges corresponding to the player's health and skill points.
 
 Initially, the gauges would not show up, since I set the origin point of the gauges' sprites in different locations.
 
