@@ -10,7 +10,7 @@ After fixing up the dialogue box and decision system (which still took me awhile
 
 <img src="https://i.imgur.com/znqOdSm.png" alt="decision box" title="Curiosity" width="320" height="240" />
 
-From there, I started to focus on putting up a basic heads-up display system. Looking at other games for reference again, I looked through the code for their HUD system. I found out that the heads-up display was assembled separately in different files, with each piece created as a "menu", or a component, instead of being created as one whole. Next, in the file that generates the HUD, a loop is used to include each "menu" (the hearts from the game I referenced count as one "menu", the magic bar another, the button icons are separate "menus", and so on) into the final HUD "menu".
+From there, I started to focus on putting up a basic heads-up display system. Looking at other games for reference again, I looked through the code for their HUD system. I found out that the heads-up display was assembled separately as different scripts, with each piece created as a "menu", or a component, instead of being created as one whole. Next, in the script that generates the HUD, a loop is used to build and include each "menu" (the hearts from the game I referenced count as one "menu", the magic bar another, the button icons are separate "menus", and so on) into the final HUD "menu".
 
 With a vague picture of the HUD that I wanted in my head, I created a small spriteset of gauges corresponding to the player's health and skill points.
 
